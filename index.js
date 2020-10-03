@@ -1,9 +1,9 @@
-var express = require("express");
-var socket = require("socket.io");
+let express = require("express");
+let socket = require("socket.io");
 
 // App setup
-var app = express();
-var server = app.listen(4000, function () {
+let app = express();
+let server = app.listen(4000, function () {
   console.log("Server is up and running on port 4000...");
 });
 
@@ -11,7 +11,7 @@ var server = app.listen(4000, function () {
 app.use(express.static("public"));
 
 // Socket setup & pass server
-var io = socket(server);
+let io = socket(server);
 io.on("connection", (socket) => {
   console.log("socket connection with User : ", socket.id);
 
