@@ -1,4 +1,4 @@
-### Web Chat Application
+## Web Chat Application
 ##### **(0.1.1)**
 ---
 
