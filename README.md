@@ -1,3 +1,10 @@
-# Web-Chat-application
-A real time chat web application (beta)
-(will update the README.md when application is ready)
+## #Web Chat Application
+##### **(0.1.1)**
+---
+
+**Using Node.js**
+
+It is a simple backend real time chat application.
+
+> Web app is complete in terms of basic functionality, however it needs few UI changes. hence, not deployed yet.
+
