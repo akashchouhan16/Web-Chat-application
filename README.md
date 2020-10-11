@@ -7,4 +7,4 @@
 It is a simple backend real time chat application.
 
 > Web app is complete in terms of basic functionality, however it needs few UI changes. hence, not deployed yet.
-
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
